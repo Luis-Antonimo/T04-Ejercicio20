@@ -7,7 +7,7 @@ namespace T04Ejercicio20
         static void Main()
         {
             int sumVentas = 0;
-            Console.WriteLine("Díga el número de ventas: ");
+            Console.WriteLine("Escriba el número de ventas: ");
             int numVentas = Convert.ToInt32(Console.ReadLine());
             for (int x=1;x<=numVentas;x++)
             {
